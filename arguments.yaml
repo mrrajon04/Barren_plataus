@@ -1,0 +1,5 @@
+method: 'time_nonlocal'
+dataset: 'Iris'
+epochs: 100
+barren_threshold: 1e-5
+learning_rate: 0.01
