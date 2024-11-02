@@ -1,0 +1,10 @@
+colorama
+torch
+numpy
+pennylane
+scipy
+scikit-learn  
+torchvision
+medmnist
+pandas
+matplotlib
