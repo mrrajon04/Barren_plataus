@@ -2,7 +2,7 @@
 
 ## Install from source
 ```
-git clone https://github.com/DSE-MSU/DeepRobust.git
-cd DeepRobust
-python setup.py install
+git clone https://github.com/mrrajon04/Benchmark_BP_Free.git
+cd Benchmark_BP_Free
+python main.py
 ```
