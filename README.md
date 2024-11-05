@@ -1,6 +1,6 @@
 # Benchmark_BP_Free
 
-Benchmark_BP_Free is a research framework for benchmarking neural network training without backpropagation. This repository allows experimentation with various initialization methods and training configurations across different datasets.
+Benchmark_BP_Free is a research framework for benchmarking. This repository allows experimentation with various Initialization, Model and Optimization methods and training configurations across different datasets.
 
 ---
 
@@ -10,6 +10,7 @@ To install the framework from source, follow these steps:
 
 1. Clone the repository:
    ```bash
+   
    git clone https://github.com/mrrajon04/Benchmark_BP_Free.git
 2. Navigate to the project directory:
 ```
