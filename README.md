@@ -9,10 +9,10 @@ Benchmark_BP_Free is a research framework for benchmarking. This repository allo
 To install the framework from source, follow these steps:
 
 1. Clone the repository:
-   ```bash
    
+   ```bash
    git clone https://github.com/mrrajon04/Benchmark_BP_Free.git
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 ```
 cd Benchmark_BP_Free
 ```
